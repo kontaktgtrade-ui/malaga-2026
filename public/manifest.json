@@ -1,0 +1,17 @@
+{
+  "short_name": "Malaga2026",
+  "name": "Przewodnik Malaga 2026 - Filip & Jowita",
+  "icons": [
+    {
+      "src": "[https://cdn-icons-png.flaticon.com/512/290/290366.png](https://cdn-icons-png.flaticon.com/512/290/290366.png)",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#F8FAFC",
+  "background_color": "#F8FAFC"
+}
